@@ -1,6 +1,6 @@
 import 'package:intl/intl.dart';
 
-class DataConstants {
+class DateConstants {
   static final DateFormat timeFormat = DateFormat.jm();
   static final DateFormat dayFormat = DateFormat.EEEE();
 
